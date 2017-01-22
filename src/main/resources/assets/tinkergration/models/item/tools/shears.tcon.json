@@ -1,0 +1,8 @@
+{
+    "textures": {
+        "layer0": "tinkergration:items/shears/shears1",
+        "layer1": "tinkergration:items/shears/shears2",
+        "broken0": "tinkergration:items/shears/broken1",
+        "broken1": "tinkergration:items/shears/broken2"
+    }
+}

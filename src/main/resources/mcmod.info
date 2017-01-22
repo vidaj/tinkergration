@@ -1,0 +1,14 @@
+[
+{
+  "modid": "tinkergration",
+  "name": "Tinkergration",
+  "description": "Integration between Tinker's Construct and various mods.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "updateUrl": "",
+  "authorList": ["vidaj"],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

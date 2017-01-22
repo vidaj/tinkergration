@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "layer0": "tinkergration:items/grafter/handle",
+        "layer1": "tinkergration:items/grafter/grafter",
+        "broken1": "tinkergration:items/grafter/grafter_broken"
+    }
+}

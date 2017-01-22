@@ -1,0 +1,19 @@
+# Vanilla
+item.tinkergration.shears.name=Shears
+item.tinkergration.shears.desc=Clips wool from sheep, harvest leaves etc.
+
+
+# Botania
+fluid.tinkergration.manasteel.name=Molten Manasteel
+material.manasteel.name=Manasteel
+modifier.manalicious.name=Manalicious
+modifier.manalicious.desc=Can repair itself using mana
+
+
+# Forestry
+item.tinkergration.grafter.name=Grafter
+item.tinkergration.grafter.desc=Grafters guarantees sapling drops from leaves.
+item.tinkergration.grafter_head.name=Grafter Head
+stat.grafter_head.name=Grafter Head
+stat.grafter_head.speed.name=Speed
+stat.grafter_head.speed.desc=How fast a tool with a tool head of this material can break blocks.\nMay be influenced by other toolparts.
