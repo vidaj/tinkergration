@@ -7,13 +7,16 @@ import com.tinkergration.IModule;
 import com.tinkergration.TinkergrationMod;
 import com.tinkergration.immersiveengineering.items.ItemToolEngineersHammer;
 
+import net.minecraft.item.ItemStack;
 import slimeknights.tconstruct.common.ModelRegisterUtil;
 import slimeknights.tconstruct.library.MaterialIntegration;
 import slimeknights.tconstruct.library.TinkerRegistry;
 import slimeknights.tconstruct.library.TinkerRegistryClient;
 import slimeknights.tconstruct.library.client.ToolBuildGuiInfo;
 import slimeknights.tconstruct.library.materials.Material;
+import slimeknights.tconstruct.library.tools.Pattern;
 import slimeknights.tconstruct.library.tools.ToolPart;
+import slimeknights.tconstruct.tools.TinkerTools;
 
 public class ImmersiveEngineeringModule implements IModule{
 
@@ -70,6 +73,8 @@ public class ImmersiveEngineeringModule implements IModule{
 		TinkergrationMod.registerItem(toolHammerHead, "toolhammer_head");
 		TinkerRegistry.addPatternForItem(toolHammerHead);
 		TinkerRegistry.addCastForItem(toolHammerHead);
+		
+		TinkerRegistry.registerStencilTableCrafting(Pattern.setTagForPart(new ItemStack(TinkerTools.pattern), toolHammerHead));
 	}
 
 	@Override

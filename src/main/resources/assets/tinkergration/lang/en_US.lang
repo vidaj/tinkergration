@@ -18,6 +18,13 @@ stat.grafter_head.name=Grafter Head
 stat.grafter_head.speed.name=Speed
 stat.grafter_head.speed.desc=How fast a tool with a tool head of this material can break blocks.\nMay be influenced by other toolparts.
 
+item.tinkergration.scoop.name=Scoop
+item.tinkergration.scoop.desc=Harvests bee hives
+item.tinkergration.scoop_head.name=Scoop Head
+stat.scoop_head.name=Scoop Head
+stat.scoop_head.durability.name=Durability
+stat.scoop_head.durability.desc=The base-value for durability calculations.\nUsually an integral part to the overall durability of a tool.
+
 
 
 # Immersive Engineering

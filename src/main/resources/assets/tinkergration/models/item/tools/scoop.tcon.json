@@ -1,0 +1,8 @@
+{
+    "textures": {
+        "layer0": "tinkergration:items/scoop/handle",
+        "layer1": "tinkergration:items/scoop/head",
+        "layer2": "tinkergration:items/scoop/binding",
+        "broken1": "tinkergration:items/scoop/broken_head"
+    }
+}
