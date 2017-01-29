@@ -17,3 +17,10 @@ item.tinkergration.grafter_head.name=Grafter Head
 stat.grafter_head.name=Grafter Head
 stat.grafter_head.speed.name=Speed
 stat.grafter_head.speed.desc=How fast a tool with a tool head of this material can break blocks.\nMay be influenced by other toolparts.
+
+
+
+# Immersive Engineering
+item.tinkergration.toolhammer.name=Engineers Hammer
+item.tinkergration.toolhammer.desc=Assembles multiblock machines
+item.tinkergration.toolhammer_head.name=Engineers Hammer Head

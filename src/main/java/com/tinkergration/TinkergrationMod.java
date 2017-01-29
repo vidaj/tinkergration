@@ -8,6 +8,7 @@ import javax.annotation.Nonnull;
 
 import com.tinkergration.botania.BotaniaModule;
 import com.tinkergration.forestry.ForestryModule;
+import com.tinkergration.immersiveengineering.ImmersiveEngineeringModule;
 import com.tinkergration.integration.ChiselIntegrations;
 
 import net.minecraft.block.state.IBlockState;
@@ -62,6 +63,9 @@ public class TinkergrationMod {
 			}
 			if (Loader.isModLoaded("Botania")) {
 				modules.add(new BotaniaModule());
+			}
+			if (Loader.isModLoaded("immersiveengineering")) {
+				modules.add(new ImmersiveEngineeringModule());
 			}
 
 			for (IModule module : modules) {

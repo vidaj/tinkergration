@@ -1,0 +1,8 @@
+{
+    "textures": {
+        "layer0": "tinkergration:items/toolhammer/handle",
+        "layer1": "tinkergration:items/toolhammer/head",
+        "layer2": "tinkergration:items/toolhammer/binding",
+        "broken1": "tinkergration:items/toolhammer/broken_head"
+    }
+}
