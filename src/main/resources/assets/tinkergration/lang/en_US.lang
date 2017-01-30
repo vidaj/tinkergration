@@ -28,6 +28,6 @@ stat.scoop_head.durability.desc=The base-value for durability calculations.\nUsu
 
 
 # Immersive Engineering
-item.tinkergration.toolhammer.name=Engineers Hammer
+item.tinkergration.toolhammer.name=Engineer's Hammer
 item.tinkergration.toolhammer.desc=Assembles multiblock machines
-item.tinkergration.toolhammer_head.name=Engineers Hammer Head
+item.tinkergration.toolhammer_head.name=Engineer's Hammer Head
